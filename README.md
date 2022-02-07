@@ -6,13 +6,16 @@ This is an example Proof of Work Chain with a client/server application.
 Steps:
 
 1.CheckOut the code
+
 2.Install all the dependencies with `npm i` from the root directory in the terminal.
+
 3.Run the server with `node index` or `nodemon index` (the latter of which will restart the server if you make any changes!). This currently starts your server at port `3032` by default.
 
 ## Client
 Steps
 
 1.install [parceljs](https://parceljs.org).
+
 2.Navigate to the `/client` folder in a terminal and run `parcel index.html` which will start your client at port `1234` by default.
 
 ## Utilities
